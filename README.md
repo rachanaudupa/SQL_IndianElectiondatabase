@@ -1,4 +1,7 @@
 India General Elections 2024 Result Analysis - MySQL Queries
+
+Source : DataTutorial on Youtube
+This repository is created for practice purpose.
 This repository contains a collection of MySQL queries designed to analyze the 2024 India General Elections. It offers insights into various election results, including total seats, state-wise outcomes, party alliances, and more. The analysis is built upon a structured dataset available on Kaggle.
 
 Dataset
